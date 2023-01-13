@@ -29,7 +29,7 @@ with open(output_file,"w") as f:
 ```
 
 ### PyBank financial analysis results
-![Image Link]()
+![Image Link](https://github.com/nickjaycarr88/python-challenge/blob/main/images/pybank_financial_analysis.png)
 
 ## PyPoll
 
@@ -56,5 +56,5 @@ elif (raymon_anthony_doane > charles_casper_stockham) and (raymon_anthony_doane 
     number_one = "Raymon Anthony Doane"
 ```
 
-### PyBank financial analysis results
-![Image Link]()
+### PyPoll election results
+![Image Link](https://github.com/nickjaycarr88/python-challenge/blob/main/images/pypoll_election_results.png)
